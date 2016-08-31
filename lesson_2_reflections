@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+Well i do not know, a .git file is created and the folder becomes a got repo.
+I need to use the "git init" command
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area =/= working directory 
+Staging area =/= repository
+
+
+It offers an intermediate stage with less commitment so you can still manage some changes
