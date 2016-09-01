@@ -9,3 +9,22 @@ Staging area =/= repository
 
 
 It offers an intermediate stage with less commitment so you can still manage some changes
+
+How can you use the staging area to make sure you have one commit per logical change?
+Well, you can always git diff --staged to check that the difference is only one logical step
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It is helpfull in order to organize an experimentation 
+
+How do the diagrams help you visualize the branch structure?
+
+It helps me visualize the differents paths my project has taken 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Well it was pretty compplicated , i gess the diagram help understand
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+time saving vs better understanding your code
